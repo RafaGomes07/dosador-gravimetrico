@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#222">
+<rect width="720" height="320" fill="#fff"/>
+<text x="30" y="26" font-size="15">Consumo medido no dosador acima do registrado no ERP, por OP</text>
+<text x="30" y="45" font-size="11" fill="#666">Base sintética. O ERP lança o consumo por backflush (peças apontadas x ficha técnica).</text>
+<line x1="50" y1="270" x2="700" y2="270" stroke="#e5e5e5"/>
+<text x="42" y="274" text-anchor="end" fill="#666">0%</text>
+<line x1="50" y1="210" x2="700" y2="210" stroke="#e5e5e5"/>
+<text x="42" y="214" text-anchor="end" fill="#666">4%</text>
+<line x1="50" y1="150" x2="700" y2="150" stroke="#e5e5e5"/>
+<text x="42" y="154" text-anchor="end" fill="#666">8%</text>
+<line x1="50" y1="90" x2="700" y2="90" stroke="#e5e5e5"/>
+<text x="42" y="94" text-anchor="end" fill="#666">12%</text>
+<rect x="58" y="186" width="27" height="84" fill="#2f5d8a"/>
+<text x="72" y="284" text-anchor="middle" font-size="9" fill="#666">100</text>
+<rect x="102" y="114" width="27" height="156" fill="#2f5d8a"/>
+<text x="115" y="284" text-anchor="middle" font-size="9" fill="#666">107</text>
+<rect x="145" y="142" width="27" height="128" fill="#2f5d8a"/>
+<text x="158" y="284" text-anchor="middle" font-size="9" fill="#666">114</text>
+<rect x="188" y="195" width="27" height="75" fill="#2f5d8a"/>
+<text x="202" y="284" text-anchor="middle" font-size="9" fill="#666">121</text>
+<rect x="232" y="130" width="27" height="140" fill="#2f5d8a"/>
+<text x="245" y="284" text-anchor="middle" font-size="9" fill="#666">128</text>
+<rect x="275" y="151" width="27" height="119" fill="#2f5d8a"/>
+<text x="288" y="284" text-anchor="middle" font-size="9" fill="#666">135</text>
+<rect x="318" y="139" width="27" height="131" fill="#2f5d8a"/>
+<text x="332" y="284" text-anchor="middle" font-size="9" fill="#666">142</text>
+<rect x="362" y="175" width="27" height="95" fill="#2f5d8a"/>
+<text x="375" y="284" text-anchor="middle" font-size="9" fill="#666">149</text>
+<rect x="405" y="167" width="27" height="103" fill="#2f5d8a"/>
+<text x="418" y="284" text-anchor="middle" font-size="9" fill="#666">156</text>
+<rect x="448" y="146" width="27" height="124" fill="#2f5d8a"/>
+<text x="462" y="284" text-anchor="middle" font-size="9" fill="#666">163</text>
+<rect x="492" y="196" width="27" height="74" fill="#2f5d8a"/>
+<text x="505" y="284" text-anchor="middle" font-size="9" fill="#666">170</text>
+<rect x="535" y="140" width="27" height="130" fill="#2f5d8a"/>
+<text x="548" y="284" text-anchor="middle" font-size="9" fill="#666">177</text>
+<rect x="578" y="195" width="27" height="75" fill="#2f5d8a"/>
+<text x="592" y="284" text-anchor="middle" font-size="9" fill="#666">184</text>
+<rect x="622" y="156" width="27" height="114" fill="#2f5d8a"/>
+<text x="635" y="284" text-anchor="middle" font-size="9" fill="#666">191</text>
+<rect x="665" y="209" width="27" height="61" fill="#2f5d8a"/>
+<text x="678" y="284" text-anchor="middle" font-size="9" fill="#666">198</text>
+<line x1="50" y1="181" x2="700" y2="181" stroke="#c8553d" stroke-dasharray="5 4"/>
+<text x="698" y="58" text-anchor="end" fill="#c8553d">- - média ponderada 5,9%</text>
+<line x1="50" y1="270" x2="700" y2="270" stroke="#333"/>
+<text x="385" y="302" text-anchor="middle" fill="#666">OP (final do número)</text>
+</svg>
